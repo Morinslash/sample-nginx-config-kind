@@ -1,2 +1,2 @@
 ingress:
-  host: app-nginx.local-com
+  host: remote-app-nginx.local-com
